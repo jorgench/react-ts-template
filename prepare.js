@@ -1,3 +1,3 @@
-import { default as husky } from 'husky'
+import husky from 'husky'
 
 husky('.husky')
