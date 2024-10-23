@@ -1,10 +1,9 @@
 export default {
-  arrowParens: "avoid",
-  htmlWhitespaceSensitivity: "css",
+  arrowParens: 'avoid',
   printWidth: 120,
   requirePragma: false,
-  singleQuote: true,
   semi: false,
+  singleQuote: true,
   tabWidth: 2,
-  trailingComma: "all",
-};
+  trailingComma: 'all',
+}
