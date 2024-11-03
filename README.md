@@ -9,7 +9,7 @@ Esta plantilla no agrega un manejador de estilo por defecto,
 ### Iniciar con degit
 
 ```
-npx degit antfu-collective/vitesse my-new-app
+npx degit jorgench/react-ts-template my-new-app
 cd my-new-app
 pnpm i
 ```
