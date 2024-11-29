@@ -19,7 +19,7 @@
   "lint-staged": {
     "*.{js,css,ts,tsx,jsx}": [
       "prettier --write",
-      "eslint \"**/*.+(js|jsx|tsx|ts)\" --fix"
+      "eslint --fix"
     ]
   },
   "devDependencies": {
